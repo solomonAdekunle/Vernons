@@ -1,0 +1,38 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cashier">
+
+
+<test name="AddNewCardTest">
+    <classes>
+        <class name="Cashier.AddNewCardTest" ></class>  
+    </classes>
+</test>
+
+<test name="CashierDepositTest">
+    <classes>
+        <class name="Cashier.CashierDepositTest" ></class>  
+    </classes>
+</test>
+<test name="CashierMyAccountTest">
+    <classes>
+        <class name="Cashier.CashierMyAccountTest" ></class>  
+    </classes>
+</test>
+<test name="OtherPaymentMethodTest">
+    <classes>
+        <class name="Cashier.OtherPaymentMethodTest" ></class>  
+    </classes>
+</test>
+<test name="ProfitReportTest">
+    <classes>
+        <class name="Cashier.ProfitReportTest" ></class>  
+    </classes>
+</test>
+<test name="WithdrawTest">
+    <classes>
+        <class name="Cashier.WithdrawTest" ></class>  
+    </classes>
+</test>
+
+</suite>
+

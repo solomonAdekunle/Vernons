@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="28" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Vernons_Core_SUITE" duration-ms="402181" started-at="2017-11-17T15:39:51Z" finished-at="2017-11-17T15:46:33Z">
+    <groups>
+    </groups>
+    <test name="RegistrationTest" duration-ms="181590" started-at="2017-11-17T15:39:51Z" finished-at="2017-11-17T15:42:52Z">
+      <class name="Vernons_Core_SUITE.RegistrationTest">
+        <test-method status="PASS" signature="initLogs()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="initLogs" is-config="true" duration-ms="51" started-at="2017-11-17T15:39:51Z" finished-at="2017-11-17T15:39:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initLogs -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="16862" started-at="2017-11-17T15:39:51Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:40:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=MNNH$1, contactNum=0203700700, address=8, silverthorne, Username=mmm12, Title=Miss, Expected_Result=FAILURE, confirmPassword=MNNH$2, lastname=MNHGF, Result=, Firstname=MJHGF-12, year=1980.0, Runmode=Y, city=London, promoCode=, day=3.0, county=l, month=OCT, Email=test@playtec.com, postcode=SW8 3HE}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="1842" started-at="2017-11-17T15:40:08Z" finished-at="2017-11-17T15:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="13003" started-at="2017-11-17T15:40:10Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:40:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=GGGGGGGGGGGGGGGGGGGG1, contactNum=0207000100, address=8//, Username=NNNNNNNNNNNNNNNNNNNNN1, Title=Ms, Expected_Result=FAILURE, confirmPassword=GGGGGGGGGGGGGGGGGGGG1, lastname=AGGTR'S, Result=, Firstname=GHJUYT'S, year=1980.0, Runmode=Y, city=L, promoCode=, day=3.0, county=Greater LONDON, month=OCT, Email=test@playtec.com, postcode=SW8 3HE}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="881" started-at="2017-11-17T15:40:23Z" finished-at="2017-11-17T15:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="13443" started-at="2017-11-17T15:40:24Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:40:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=1.2345678E7, contactNum=0207001000, address=0.08, Username=markge, Title=DR, Expected_Result=FAILURE, confirmPassword=1.2345678E7, lastname=HJUUT12, Result=, Firstname=AGRT BG, year=1980.0, Runmode=Y, city=london1, promoCode=Prom2345, day=3.0, county=Greatest of LONDON area of united kingdon europes, month=OCT, Email=test@playtec.com, postcode=SW8 3HE}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="949" started-at="2017-11-17T15:40:38Z" finished-at="2017-11-17T15:40:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="13244" started-at="2017-11-17T15:40:38Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:40:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=ADSERTYG, contactNum=0207100600, address=8,silverthorne, Username=1.2345678E7, Title=MR, Expected_Result=FAILURE, confirmPassword=ADSERTYG, lastname=ASEDDR, Result=, Firstname=, year=1980.0, Runmode=Y, city=Greatest of LONDON area of united kingdon europes, promoCode=BONUS200, day=3.0, county=Greatest of LONDON area of united kingdon europes, month=OCT, Email=test@playtec.com, postcode=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="872" started-at="2017-11-17T15:40:52Z" finished-at="2017-11-17T15:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="12230" started-at="2017-11-17T15:40:53Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:41:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=lookjng£*^, contactNum=0207100601, address=, Username=, Title=MR, Expected_Result=FAILURE, confirmPassword=lookjng£*^, lastname=, Result=, Firstname=asderty, year=1980.0, Runmode=Y, city=london, promoCode=, day=3.0, county=London, month=OCT, Email=, postcode=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="941" started-at="2017-11-17T15:41:05Z" finished-at="2017-11-17T15:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="12262" started-at="2017-11-17T15:41:06Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:41:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=£££1232323>, contactNum=++U13234803556000, address=80.0, Username=Snetplay-TV, Title=Miss, Expected_Result=FAILURE, confirmPassword=£££1232323>, lastname=^^^^^"""**, Result=, Firstname=add*add, year=2018.0, Runmode=Y, city=London&&&, promoCode=, day=23.0, county=1234555.0, month=Jun, Email=temmtt, postcode=SW8 3HE}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="831" started-at="2017-11-17T15:41:18Z" finished-at="2017-11-17T15:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="12196" started-at="2017-11-17T15:41:19Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:41:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=$$$$$%%1a, contactNum=, address=8.0, Username=123456£1, Title=DR, Expected_Result=FAILURE, confirmPassword=$$$$$%%1a, lastname=&$£agas, Result=, Firstname=adde$), year=2015.0, Runmode=Y, city=greater3LONDON, promoCode=, day=3.0, county=, month=, Email=testplaytech.com, postcode=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="885" started-at="2017-11-17T15:41:31Z" finished-at="2017-11-17T15:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="13323" started-at="2017-11-17T15:41:32Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:41:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=Manjuyt, contactNum=9191GGSS, address=80.0, Username={generator}, Title=, Expected_Result=FAILURE, confirmPassword=Manjuyt, lastname=, Result=, Firstname=, year=1980.0, Runmode=Y, city=SDDDD , promoCode=, day=3.0, county=LONDON, month=OCT, Email=l@.com, postcode=SW8 %67}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="888" started-at="2017-11-17T15:41:45Z" finished-at="2017-11-17T15:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="12447" started-at="2017-11-17T15:41:46Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:41:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=Looking/>, contactNum=london01, address=, Username=Snetplaytv$%, Title=, Expected_Result=FAILURE, confirmPassword=Looking/>, lastname=, Result=, Firstname=lao@, year=2001.0, Runmode=Y, city=LONDON%#, promoCode=, day=3.0, county=Surrey-london, month=OCT, Email=£££test@playtech.com, postcode=SW8 3HE+8}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="927" started-at="2017-11-17T15:41:59Z" finished-at="2017-11-17T15:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="12240" started-at="2017-11-17T15:42:00Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:42:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=Bola123%^£^, contactNum=london01, address=, Username={generator}, Title=, Expected_Result=FAILURE, confirmPassword=Bola123%^£^, lastname=, Result=, Firstname=lao@, year=2001.0, Runmode=Y, city=LONDON%#, promoCode=, day=3.0, county=Surrey-london, month=OCT, Email=test@playtec.com, postcode=SW8 3HE+8}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="870" started-at="2017-11-17T15:42:12Z" finished-at="2017-11-17T15:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="12629" started-at="2017-11-17T15:42:13Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:42:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=Bola123$%^, contactNum=london02, address=, Username={generator}, Title=, Expected_Result=FAILURE, confirmPassword=, lastname=, Result=, Firstname=lao@, year=2002.0, Runmode=Y, city=LONDON%#, promoCode=, day=4.0, county=Surrey-london, month=NOV, Email=test@playtec.com, postcode=SW8 3HE+9}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="885" started-at="2017-11-17T15:42:25Z" finished-at="2017-11-17T15:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="RegistrationTest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="RegistrationTest" duration-ms="25346" started-at="2017-11-17T15:42:26Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:42:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Browser=Chrome, Password=Bola123$%^, contactNum=02071006020, address=80.0, Username={generator}, Title=MR, Expected_Result=SUCCESS, confirmPassword=Bola123$%^, lastname=bolabo, Result=, Firstname=mark, year=1980.0, Runmode=Y, city=LONDON, promoCode=, day=3.0, county=LONDON, month=OCT, Email=test@playtech.com, postcode=SW8 3HE}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.RegistrationTest@176d53b2]" name="close" is-config="true" duration-ms="894" started-at="2017-11-17T15:42:51Z" finished-at="2017-11-17T15:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Vernons_Core_SUITE.RegistrationTest -->
+    </test> <!-- RegistrationTest -->
+    <test name="LoginTest" duration-ms="69142" started-at="2017-11-17T15:42:52Z" finished-at="2017-11-17T15:44:02Z">
+      <class name="Vernons_Core_SUITE.LoginTest">
+        <test-method status="PASS" signature="initLogs()[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="initLogs" is-config="true" duration-ms="1" started-at="2017-11-17T15:42:52Z" finished-at="2017-11-17T15:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initLogs -->
+        <test-method status="PASS" signature="Logintest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="Logintest" duration-ms="13489" started-at="2017-11-17T15:42:52Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:43:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=mmm12, Password=MNNH$1, Runmode=Y, Expected_Result=FAILURE, Browser=Chrome, Result=Incorrect}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="close" is-config="true" duration-ms="879" started-at="2017-11-17T15:43:06Z" finished-at="2017-11-17T15:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="Logintest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="Logintest" duration-ms="13597" started-at="2017-11-17T15:43:07Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:43:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=NNNNNNNNNNNNNNNNNNNNN1, Password=GGGGGGGGGGGGGGGGGGGG1, Runmode=Y, Expected_Result=FAILURE, Browser=Chrome, Result=Incorrect}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="close" is-config="true" duration-ms="892" started-at="2017-11-17T15:43:20Z" finished-at="2017-11-17T15:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="Logintest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="Logintest" duration-ms="13697" started-at="2017-11-17T15:43:21Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:43:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=Noblebug228, Password=Bola123, Runmode=Y, Expected_Result=FAILURE, Browser=Chrome, Result=Incorrect}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="close" is-config="true" duration-ms="830" started-at="2017-11-17T15:43:35Z" finished-at="2017-11-17T15:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="Logintest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="Logintest" duration-ms="24879" started-at="2017-11-17T15:43:36Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:44:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=Netplay255, Password=Bola123$%^, Runmode=Y, Expected_Result=SUCCESS, Browser=Chrome, Result=Correct}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.LoginTest@525f1e4e]" name="close" is-config="true" duration-ms="834" started-at="2017-11-17T15:44:01Z" finished-at="2017-11-17T15:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Vernons_Core_SUITE.LoginTest -->
+    </test> <!-- LoginTest -->
+    <test name="ForgottenDetailsTest" duration-ms="139748" started-at="2017-11-17T15:44:02Z" finished-at="2017-11-17T15:46:21Z">
+      <class name="Vernons_Core_SUITE.ForgottenDetailsTest">
+        <test-method status="PASS" signature="initLogs()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="initLogs" is-config="true" duration-ms="1" started-at="2017-11-17T15:44:02Z" finished-at="2017-11-17T15:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initLogs -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="13194" started-at="2017-11-17T15:44:02Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:44:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=bola1231, Username=manggee, Result=Incorrect, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=bola1234, month=9.0, year=1990.0, day=2.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="872" started-at="2017-11-17T15:44:15Z" finished-at="2017-11-17T15:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="9839" started-at="2017-11-17T15:44:16Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:44:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=bola1234, Username=Nobelbug11, Result=Incorrect, Runmode=Y, Email=testplay.com, Expected_Result=FAILURE, ConfirmPasswordR=bola1234, month=8.0, year=1990.0, day=7.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="876" started-at="2017-11-17T15:44:25Z" finished-at="2017-11-17T15:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="11121" started-at="2017-11-17T15:44:26Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:44:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=, Username=, Result=Incorrect, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=bola1234, month=0.0, year=1980.0, day=2.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="880" started-at="2017-11-17T15:44:37Z" finished-at="2017-11-17T15:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="9822" started-at="2017-11-17T15:44:38Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:44:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=bola1240, Username=H, Result=Incorrect, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=, month=7.0, year=1990.0, day=7.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="880" started-at="2017-11-17T15:44:48Z" finished-at="2017-11-17T15:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="10066" started-at="2017-11-17T15:44:49Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:44:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=bola1241, Username=Netplay259, Result=Incorrect, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=bola1241, month=NOV, year=1981.0, day=31.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="875" started-at="2017-11-17T15:44:59Z" finished-at="2017-11-17T15:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="13355" started-at="2017-11-17T15:45:00Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:45:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=1.2345678E7, Username=Netplay259, Result=Correct, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=1.2345678E7, month=OCT, year=1980.0, day=30.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="872" started-at="2017-11-17T15:45:13Z" finished-at="2017-11-17T15:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="13375" started-at="2017-11-17T15:45:14Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:45:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=££££123A>, Username=Netplay259, Result=Correct, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=££££123A>, month=OCT, year=1980.0, day=30.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="879" started-at="2017-11-17T15:45:28Z" finished-at="2017-11-17T15:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="12236" started-at="2017-11-17T15:45:28Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:45:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=bola123, Username=Netplay259, Result=Correct, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=bola123, month=OCT, year=1980.0, day=30.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="911" started-at="2017-11-17T15:45:41Z" finished-at="2017-11-17T15:45:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="11608" started-at="2017-11-17T15:45:42Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:45:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=bolabola, Username=Netplay259, Result=Correct, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=bolabola, month=OCT, year=1980.0, day=30.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="890" started-at="2017-11-17T15:45:53Z" finished-at="2017-11-17T15:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="12251" started-at="2017-11-17T15:45:54Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:46:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=bola1£1, Username=Netplay259, Result=Correct, Runmode=Y, Email=test@playtech.com, Expected_Result=FAILURE, ConfirmPasswordR=bola1£1, month=OCT, year=1980.0, day=30.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="816" started-at="2017-11-17T15:46:06Z" finished-at="2017-11-17T15:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="ForgottenDetailstest(java.util.Hashtable)[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="ForgottenDetailstest" duration-ms="13230" started-at="2017-11-17T15:46:07Z" data-provider="Vernons_Core_SUITEDataProvider" finished-at="2017-11-17T15:46:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{NewPassword=London02$&, Username=Netplay259, Result=Correct, Runmode=Y, Email=test@playtech.com, Expected_Result=SUCCESS, ConfirmPasswordR=London02$&, month=OCT, year=1980.0, day=30.0, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenDetailstest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.ForgottenDetailsTest@4ae3c1cd]" name="close" is-config="true" duration-ms="865" started-at="2017-11-17T15:46:20Z" finished-at="2017-11-17T15:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Vernons_Core_SUITE.ForgottenDetailsTest -->
+    </test> <!-- ForgottenDetailsTest -->
+    <test name="ChangePasswordTest" duration-ms="2" started-at="2017-11-17T15:46:21Z" finished-at="2017-11-17T15:46:21Z">
+      <class name="Vernons_Core_SUITE.ChangePasswordTest">
+        <test-method status="PASS" signature="initLogs()[pri:0, instance:Vernons_Core_SUITE.ChangePasswordTest@1f1c7bf6]" name="initLogs" is-config="true" duration-ms="2" started-at="2017-11-17T15:46:21Z" finished-at="2017-11-17T15:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initLogs -->
+      </class> <!-- Vernons_Core_SUITE.ChangePasswordTest -->
+    </test> <!-- ChangePasswordTest -->
+    <test name="TermsAndConditions" duration-ms="11663" started-at="2017-11-17T15:46:21Z" finished-at="2017-11-17T15:46:33Z">
+      <class name="Vernons_Core_SUITE.TermsAndConditions">
+        <test-method status="PASS" signature="initLogs()[pri:0, instance:Vernons_Core_SUITE.TermsAndConditions@3c87521]" name="initLogs" is-config="true" duration-ms="0" started-at="2017-11-17T15:46:21Z" finished-at="2017-11-17T15:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initLogs -->
+        <test-method status="PASS" signature="Termspagetest()[pri:0, instance:Vernons_Core_SUITE.TermsAndConditions@3c87521]" name="Termspagetest" duration-ms="10762" started-at="2017-11-17T15:46:21Z" finished-at="2017-11-17T15:46:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Termspagetest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Vernons_Core_SUITE.TermsAndConditions@3c87521]" name="close" is-config="true" duration-ms="899" started-at="2017-11-17T15:46:32Z" finished-at="2017-11-17T15:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Vernons_Core_SUITE.TermsAndConditions -->
+    </test> <!-- TermsAndConditions -->
+  </suite> <!-- Vernons_Core_SUITE -->
+</testng-results>

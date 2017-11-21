@@ -1,0 +1,47 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BetVernons">
+
+
+
+
+
+
+<test name="TestBase">
+    <classes>
+        <class name="Base.TestBase" ></class>  
+    </classes>
+</test>
+
+<test name="RegistrartionTest">
+    <classes>
+        <class name="Vernons_Core_SUITE.RegistrationTest" ></class>  
+    </classes>
+</test>
+
+<test name="LoginTest">
+    <classes>
+        <class name="Vernons_Core_SUITE.LoginTest" ></class>  
+    </classes>
+</test>
+
+<test name="ForgottenDetails">
+    <classes>
+        <class name="Vernons_Core_SUITE.ForgottenDetails" ></class>  
+    </classes>
+</test>
+<test name="ChangePassword">
+    <classes>
+        <class name="Vernons_Core_SUITE.ChangePassword" ></class>  
+    </classes>
+    </test>
+    <test name="Casino">
+    <classes>
+        <class name="Suite2.Casino" ></class>  
+    </classes>
+    </test>
+     <test name="CashierDepositTest">
+    <classes>
+        <class name="Suite4.CashierDepositTest" ></class>  
+    </classes>
+    </test>
+</suite>

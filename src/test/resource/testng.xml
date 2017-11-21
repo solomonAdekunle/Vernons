@@ -1,0 +1,13 @@
+<suite name="Vernons" >
+<listeners>
+    <listener class-name="Util.CustomListener" />
+</listeners>
+  <suite-files>
+   <suite-file path="./Vernons_Core_SUITE.xml" />
+   <suite-file path="./Suite2.xml" />
+   <suite-file path="./Suite3.xml" />
+   <suite-file path="./Cashier.xml" />
+   
+   
+  </suite-files>
+</suite>

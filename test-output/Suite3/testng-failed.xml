@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite3]">
+  <test name="PrivacyPolicy(failed)">
+    <classes>
+      <class name="Suite3.Help_FQAs">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.Help_FQAs -->
+      <class name="Suite3.PrivacyPolicy">
+        <methods>
+          <include name="privacypolicytest"/>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.PrivacyPolicy -->
+      <class name="Suite3.About_us">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.About_us -->
+      <class name="Suite3.Contact_us">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.Contact_us -->
+      <class name="Suite3.EnjoyResponsibly">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.EnjoyResponsibly -->
+      <class name="Suite3.Terms">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.Terms -->
+    </classes>
+  </test> <!-- PrivacyPolicy(failed) -->
+  <test name="Terms(failed)">
+    <classes>
+      <class name="Suite3.Help_FQAs">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.Help_FQAs -->
+      <class name="Suite3.PrivacyPolicy">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.PrivacyPolicy -->
+      <class name="Suite3.About_us">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.About_us -->
+      <class name="Suite3.Contact_us">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.Contact_us -->
+      <class name="Suite3.EnjoyResponsibly">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.EnjoyResponsibly -->
+      <class name="Suite3.Terms">
+        <methods>
+          <include name="Termstest"/>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite3.Terms -->
+    </classes>
+  </test> <!-- Terms(failed) -->
+</suite> <!-- Failed suite [Suite3] -->

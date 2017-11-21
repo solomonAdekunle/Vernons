@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BetVernons]">
+  <test name="Casino(failed)">
+    <classes>
+      <class name="Vernons_Core_SUITE.RegistrationTest">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Vernons_Core_SUITE.RegistrationTest -->
+      <class name="Vernons_Core_SUITE.ForgottenDetailsTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Vernons_Core_SUITE.ForgottenDetailsTest -->
+      <class name="Vernons_Core_SUITE.LoginTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Vernons_Core_SUITE.LoginTest -->
+      <class name="Suite2.GamesTab">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.GamesTab -->
+      <class name="Suite2.Casino">
+        <methods>
+          <include name="initLogs"/>
+          <include name="PopupSignToPlayBoxtest"/>
+          <include name="popup_forgottenDtest"/>
+          <include name="close"/>
+          <include name="popup_NewUserlinktest"/>
+        </methods>
+      </class> <!-- Suite2.Casino -->
+      <class name="Cashier.CashierDepositTest">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.CashierDepositTest -->
+      <class name="Suite2.Live">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Live -->
+      <class name="Vernons_Core_SUITE.ChangePasswordTest">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Vernons_Core_SUITE.ChangePasswordTest -->
+    </classes>
+  </test> <!-- Casino(failed) -->
+</suite> <!-- Failed suite [BetVernons] -->

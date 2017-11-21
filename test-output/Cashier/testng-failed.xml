@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Cashier]">
+  <listeners>
+    <listener class-name="Util.CustomListener"/>
+  </listeners>
+  <test name="AddNewCardTest(failed)">
+    <classes>
+      <class name="Cashier.OtherPaymentMethodTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.OtherPaymentMethodTest -->
+      <class name="Cashier.CashierMyAccountTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.CashierMyAccountTest$MyAccount -->
+      <class name="Cashier.ProfitReportTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.ProfitReportTest$MyAccount -->
+      <class name="Cashier.WithdrawTest">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.WithdrawTest -->
+      <class name="Cashier.CashierDepositTest">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Cashier.CashierDepositTest -->
+      <class name="Cashier.AddNewCardTest">
+        <methods>
+          <include name="addcardtest" invocation-numbers="0 1 2 3 4"/>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.AddNewCardTest -->
+    </classes>
+  </test> <!-- AddNewCardTest(failed) -->
+  <test name="CashierDepositTest(failed)">
+    <classes>
+      <class name="Cashier.OtherPaymentMethodTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.OtherPaymentMethodTest -->
+      <class name="Cashier.CashierMyAccountTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.CashierMyAccountTest$MyAccount -->
+      <class name="Cashier.ProfitReportTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.ProfitReportTest$MyAccount -->
+      <class name="Cashier.WithdrawTest">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.WithdrawTest -->
+      <class name="Cashier.CashierDepositTest">
+        <methods>
+          <include name="MYAccountMenutest" invocation-numbers="0 1 2 3 4"/>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Cashier.CashierDepositTest -->
+      <class name="Cashier.AddNewCardTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.AddNewCardTest -->
+    </classes>
+  </test> <!-- CashierDepositTest(failed) -->
+  <test name="CashierMyAccountTest(failed)">
+    <classes>
+      <class name="Cashier.OtherPaymentMethodTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.OtherPaymentMethodTest -->
+      <class name="Cashier.CashierMyAccountTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.CashierMyAccountTest$MyAccount -->
+      <class name="Cashier.ProfitReportTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.ProfitReportTest$MyAccount -->
+      <class name="Cashier.WithdrawTest">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.WithdrawTest -->
+      <class name="Cashier.CashierMyAccountTest">
+        <methods>
+          <include name="SelfExcludetest"/>
+        </methods>
+      </class> <!-- Cashier.CashierMyAccountTest -->
+      <class name="Cashier.CashierDepositTest">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Cashier.CashierDepositTest -->
+      <class name="Cashier.AddNewCardTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.AddNewCardTest -->
+    </classes>
+  </test> <!-- CashierMyAccountTest(failed) -->
+  <test name="OtherPaymentMethodTest(failed)">
+    <classes>
+      <class name="Cashier.OtherPaymentMethodTest">
+        <methods>
+          <include name="close"/>
+          <include name="PaymentMethodTest"/>
+          <include name="initLogs"/>
+          <include name="PaymentMethodPayPal"/>
+        </methods>
+      </class> <!-- Cashier.OtherPaymentMethodTest -->
+      <class name="Cashier.CashierMyAccountTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.CashierMyAccountTest$MyAccount -->
+      <class name="Cashier.ProfitReportTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.ProfitReportTest$MyAccount -->
+      <class name="Cashier.WithdrawTest">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.WithdrawTest -->
+      <class name="Cashier.CashierDepositTest">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Cashier.CashierDepositTest -->
+      <class name="Cashier.AddNewCardTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.AddNewCardTest -->
+    </classes>
+  </test> <!-- OtherPaymentMethodTest(failed) -->
+  <test name="ProfitReportTest(failed)">
+    <classes>
+      <class name="Cashier.OtherPaymentMethodTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.OtherPaymentMethodTest -->
+      <class name="Cashier.CashierMyAccountTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.CashierMyAccountTest$MyAccount -->
+      <class name="Cashier.ProfitReportTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+          <include name="MYAccountProfitReport"/>
+          <include name="MYAccountSesstion"/>
+          <include name="MYAccountGameHistoryB"/>
+          <include name="MYAccountGameHistory"/>
+          <include name="MYAccountTransactions"/>
+        </methods>
+      </class> <!-- Cashier.ProfitReportTest$MyAccount -->
+      <class name="Cashier.WithdrawTest">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.WithdrawTest -->
+      <class name="Cashier.CashierDepositTest">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Cashier.CashierDepositTest -->
+      <class name="Cashier.AddNewCardTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.AddNewCardTest -->
+    </classes>
+  </test> <!-- ProfitReportTest(failed) -->
+  <test name="WithdrawTest(failed)">
+    <classes>
+      <class name="Cashier.OtherPaymentMethodTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.OtherPaymentMethodTest -->
+      <class name="Cashier.CashierMyAccountTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.CashierMyAccountTest$MyAccount -->
+      <class name="Cashier.ProfitReportTest$MyAccount">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.ProfitReportTest$MyAccount -->
+      <class name="Cashier.WithdrawTest">
+        <methods>
+          <include name="initLogs"/>
+          <include name="withdrawtest"/>
+        </methods>
+      </class> <!-- Cashier.WithdrawTest -->
+      <class name="Cashier.CashierDepositTest">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Cashier.CashierDepositTest -->
+      <class name="Cashier.AddNewCardTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Cashier.AddNewCardTest -->
+    </classes>
+  </test> <!-- WithdrawTest(failed) -->
+</suite> <!-- Failed suite [Cashier] -->

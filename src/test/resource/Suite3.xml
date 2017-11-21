@@ -1,0 +1,38 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite3">
+
+
+<test name="About_us">
+    <classes>
+        <class name="Suite3.About_us" ></class>  
+    </classes>
+</test>
+
+<test name="Contact_us">
+    <classes>
+        <class name="Suite3.Contact_us" ></class>  
+    </classes>
+</test>
+<test name="EnjoyResponsibly">
+    <classes>
+        <class name="Suite3.EnjoyResponsibly" ></class>  
+    </classes>
+</test>
+<test name="Help_FQAs">
+    <classes>
+        <class name="Suite3.Help_FQAs" ></class>  
+    </classes>
+</test>
+<test name="PrivacyPolicy">
+    <classes>
+        <class name="Suite3.PrivacyPolicy" ></class>  
+    </classes>
+</test>
+<test name="Terms">
+    <classes>
+        <class name="Suite3.Terms" ></class>  
+    </classes>
+</test>
+
+</suite>
+

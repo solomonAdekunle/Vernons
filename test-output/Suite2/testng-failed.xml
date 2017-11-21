@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite2]">
+  <test name="Casino(failed)">
+    <classes>
+      <class name="Suite2.MyAccount">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.MyAccount -->
+      <class name="Suite2.Casino">
+        <methods>
+          <include name="initLogs"/>
+          <include name="popup_forgottenDtest"/>
+          <include name="close"/>
+          <include name="popup_NewUserlinktest"/>
+        </methods>
+      </class> <!-- Suite2.Casino -->
+      <class name="Suite2.GamesRules">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.GamesRules -->
+      <class name="Suite2.Search_VernonsBox">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Search_VernonsBox -->
+      <class name="Suite2.Live">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Live -->
+      <class name="Suite2.CasinoVernons_Homepage">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.CasinoVernons_Homepage -->
+      <class name="Suite2.Promotions">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Promotions -->
+      <class name="Suite2.Mobile">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Mobile -->
+      <class name="Suite2.GamesTab">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.GamesTab -->
+      <class name="Suite2.WinnersAND_Vip">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.WinnersAND_Vip -->
+      <class name="Suite2.Getting_Started">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Getting_Started -->
+    </classes>
+  </test> <!-- Casino(failed) -->
+  <test name="MyAccount(failed)">
+    <classes>
+      <class name="Suite2.MyAccount">
+        <methods>
+          <include name="initLogs"/>
+          <include name="withdrawtest"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.MyAccount -->
+      <class name="Suite2.Casino">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Casino -->
+      <class name="Suite2.GamesRules">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.GamesRules -->
+      <class name="Suite2.Search_VernonsBox">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Search_VernonsBox -->
+      <class name="Suite2.Live">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Live -->
+      <class name="Suite2.CasinoVernons_Homepage">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.CasinoVernons_Homepage -->
+      <class name="Suite2.Promotions">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Promotions -->
+      <class name="Suite2.Mobile">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Mobile -->
+      <class name="Suite2.GamesTab">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.GamesTab -->
+      <class name="Suite2.WinnersAND_Vip">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.WinnersAND_Vip -->
+      <class name="Suite2.Getting_Started">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Getting_Started -->
+    </classes>
+  </test> <!-- MyAccount(failed) -->
+  <test name="CasinonateVernons_Homepage(failed)">
+    <classes>
+      <class name="Suite2.MyAccount">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.MyAccount -->
+      <class name="Suite2.Casino">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Casino -->
+      <class name="Suite2.GamesRules">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.GamesRules -->
+      <class name="Suite2.Search_VernonsBox">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Search_VernonsBox -->
+      <class name="Suite2.Live">
+        <methods>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.Live -->
+      <class name="Suite2.CasinoVernons_Homepage">
+        <methods>
+          <include name="contentblockHP2test"/>
+          <include name="initLogs"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Suite2.CasinoVernons_Homepage -->
+      <class name="Suite2.Promotions">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Promotions -->
+      <class name="Suite2.Mobile">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Mobile -->
+      <class name="Suite2.GamesTab">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.GamesTab -->
+      <class name="Suite2.WinnersAND_Vip">
+        <methods>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.WinnersAND_Vip -->
+      <class name="Suite2.Getting_Started">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- Suite2.Getting_Started -->
+    </classes>
+  </test> <!-- CasinonateVernons_Homepage(failed) -->
+</suite> <!-- Failed suite [Suite2] -->

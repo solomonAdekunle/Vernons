@@ -1,0 +1,65 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite2">
+
+
+
+
+<test name="Casino">
+    <classes>
+        <class name="Suite2.Casino" ></class>  
+    </classes>
+</test>
+
+<test name="GamesRules">
+    <classes>
+        <class name="Suite2.GamesRules" ></class>  
+    </classes>
+</test>
+<test name="GamesTab">
+    <classes>
+        <class name="Suite2.GamesTab" ></class>  
+    </classes>
+</test>
+<test name="Getting_Started">
+    <classes>
+        <class name="Suite2.Getting_Started" ></class>  
+    </classes>
+</test>
+<test name="Live">
+    <classes>
+        <class name="Suite2.Live" ></class>  
+    </classes>
+</test>
+<test name="Mobile">
+    <classes>
+        <class name="Suite2.Mobile" ></class>  
+    </classes>
+</test>
+<test name="MyAccount">
+    <classes>
+        <class name="Suite2.MyAccount" ></class>  
+    </classes>
+</test>
+<test name="Promotions">
+    <classes>
+        <class name="Suite2.Promotions" ></class>  
+    </classes>
+</test>
+<test name="Search_VernonsBox">
+    <classes>
+        <class name="Suite2.Search_VernonsBox" ></class>  
+    </classes>
+</test>
+<test name="CasinonateVernons_Homepage">
+    <classes>
+        <class name="Suite2.CasinoVernons_Homepage" ></class>  
+    </classes>
+</test>
+<test name="WinnersAND_Vip">
+    <classes>
+        <class name="Suite2.WinnersAND_Vip" ></class>  
+    </classes>
+</test>
+
+</suite>
+

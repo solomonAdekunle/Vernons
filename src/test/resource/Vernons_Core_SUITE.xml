@@ -1,0 +1,32 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Vernons_Core_SUITE">
+
+
+<test name="RegistrationTest">
+    <classes>
+        <class name="Vernons_Core_SUITE.RegistrationTest" ></class>  
+    </classes>
+</test>
+
+<test name="LoginTest">
+    <classes>
+        <class name="Vernons_Core_SUITE.LoginTest" ></class>  
+    </classes>
+</test>
+<test name="ForgottenDetailsTest">
+    <classes>
+        <class name="Vernons_Core_SUITE.ForgottenDetailsTest" ></class>  
+    </classes>
+</test>
+<test name="ChangePasswordTest">
+    <classes>
+        <class name="Vernons_Core_SUITE.ChangePasswordTest" ></class>  
+    </classes>
+    </test>
+<test name="TermsAndConditions">
+    <classes>
+        <class name="Vernons_Core_SUITE.TermsAndConditions" ></class>  
+    </classes>
+    </test>
+</suite>
+
